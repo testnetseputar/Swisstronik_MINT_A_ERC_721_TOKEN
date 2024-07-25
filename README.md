@@ -1,16 +1,18 @@
-Tutorial Cara Mengerjakan Misi Swisstronik Ke 3 (Mint a ERC-721 Token)
+### Tutorial Cara Mengerjakan Misi Swisstronik Ke 3 (Mint a ERC-721 Token)
+
+## REMINDER !
 
 Sebelumnya Saya Ingatkan Untuk Menggunakan New Wallet, Terserah Masing - Masing, ini Hanya Saran.
 Tutorial Yang Saya Berikan Adalah Kumpulan Dari Berbagai Sumber Yang Sudah Saya Rangkum Agar Lebih Mudah Di Pahami Bagi Mereka Yang Mau Mengerjakan ( DYOR )
 
 Untuk Link Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-## Steps
+## IKUTI LANGKAH DEMI LANGKAH
 
 ### 1. Copy Paste Link Di Bawah ini Ke Gitpod ( Diawali Https Tanpa Ada Huruf Git Clone )
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc721-mint-token.git
+git clone https://github.com/seputartestnet/swisstronik3
 ```
 
 ```
@@ -76,4 +78,8 @@ npm run mint
 
 - Buka Menu deployed-adddress.ts Untuk Misi Kontrak Pintar
 - Buka Menu tx-hash.txt Untuk Mengetahui TX Hash
-- Lalu Tinggal Copy Paste Ke Halaman Swisstronik Testnet 3 Terimakasih Dan Semoga Bermanfaat
+- Lalu Tinggal Copy Paste Ke Halaman Swisstronik Testnet 3
+
+Untuk Link Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboard)
+
+### Terimakasih Dan Semoga Bermanfaat
