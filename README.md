@@ -12,7 +12,7 @@ Untuk Link Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboa
 ### 1. Copy Paste Link Di Bawah ini Ke Gitpod ( Diawali Https Tanpa Ada Huruf Git Clone )
 
 ```bash
-git clone https://github.com/seputartestnet/swisstronik3
+git clone https://github.com/shukakuairdrop/Swisstronik_Task3
 ```
 
 ```
