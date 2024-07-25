@@ -1,6 +1,7 @@
-# Swisstronik Tesnet Techinal Task Ke 3 (Mint a ERC-721 Token)
+Tutorial Cara Mengerjakan Misi Swisstronik Ke 3 (Mint a ERC-721 Token)
 
 Sebelumnya Saya Ingatkan Untuk Menggunakan New Wallet, Terserah Masing - Masing, ini Hanya Saran.
+Tutorial Yang Saya Berikan Adalah Kumpulan Dari Berbagai Sumber Yang Sudah Saya Rangkum Agar Lebih Mudah Di Pahami Bagi Mereka Yang Mau Mengerjakan ( DYOR )
 
 Untuk Link Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
